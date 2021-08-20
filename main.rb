@@ -31,3 +31,14 @@ end
 # git add . or (files you want to commit)
 # git commit -m'describe the work you did'
 # repeat this untill you are ready to push to github
+
+#to push to  github
+# make sure all changes you want to push to
+#github are commited
+
+# git push origin master/main
+
+# creating a repo on github
+# new repo in github
+# copy the "git remote add...."
+# paste that into terminal
